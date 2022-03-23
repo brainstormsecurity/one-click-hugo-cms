@@ -16,5 +16,9 @@ products:
 values:
     heading: Our values
     text: Welcome to Mantilly holiday cottage situated in Normandy, France. A peaceful, detached independent self catering French Gite (cottage) with beautiful views over surrounding fields and countryside, situated within the Normandie-Maine Regional Nature Park, in Orne,Basse-Normandie. Pets welcome. 
+intro:
+    heading: Getting around
+    text: The cottage is situated in rural Normandy so if you want to travel to see the sites, a car is advisable. However, the cottage is located on a country lane leading off the village square, so the bar, shop, and boulangerie are all in walking distance. There is a local taxi service, which we provide details for in our welcome pack.
+
 ---
 
